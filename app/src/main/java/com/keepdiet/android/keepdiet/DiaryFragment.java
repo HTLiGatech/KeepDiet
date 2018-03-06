@@ -14,6 +14,7 @@ import android.view.ViewGroup;
 public class DiaryFragment extends Fragment {
 
 
+
     public DiaryFragment() {
         // Required empty public constructor
     }
